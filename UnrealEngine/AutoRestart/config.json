@@ -5,11 +5,11 @@
 	"startingMessage": "startingMessage",
 	"StartMessage": "startMessage",
 	"StopMessage": "stopMessage",
-    "adminPassword": "adminPassword",
-    "gamemode": "gameMode",
-    "maxPlayers": "maxPlayers",
-    "gamePort": "gamePort",
-    "peerPort": "peerPort",
-    "queryPort": "queryPort",
-    "additionalArgs": " -Unattended"
+	"adminPassword": "adminPassword",
+	"gamemode": "gameMode",
+	"maxPlayers": "maxPlayers",
+	"gamePort": "gamePort",
+	"peerPort": "peerPort",
+	"queryPort": "queryPort",
+	"additionalArgs": " -Unattended"
 }
