@@ -9,7 +9,7 @@ $ProgressPreference = "SilentlyContinue"
 $ErrorActionPreference = 'SilentlyContinue'
 
 function getConfig {
-	return (Get-Content -Path "./autoServerRestartScriptConfig.json" | ConvertFrom-Json)
+	return (Get-Content -Path "./starterConfig.json" | ConvertFrom-Json)
 }
 
 $ServerName = (getConfig).ServerName
