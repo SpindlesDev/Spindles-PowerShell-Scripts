@@ -1,0 +1,15 @@
+{
+	"ServerName": "testServer",
+	"DiscordWebhookUrl": "http://localhost:8000/",
+	"ServerExec": "./testExec.bat",
+	"startingMessage": "startingMessage",
+	"StartMessage": "startMessage",
+	"StopMessage": "stopMessage",
+    "adminPassword": "adminPassword",
+    "gamemode": "gameMode",
+    "maxPlayers": "maxPlayers",
+    "gamePort": "gamePort",
+    "peerPort": "peerPort",
+    "queryPort": "queryPort",
+    "additionalArgs": " -Unattended"
+}
