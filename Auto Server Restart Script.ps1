@@ -1,3 +1,10 @@
+$license="AGPL-3.0"
+$author="Spindles"
+$startMessage="This was created by " + $author + " and is licensed under " + $license
+
+Write-Output $startMessage
+
+
 $ProgressPreference = "SilentlyContinue"
 $ErrorActionPreference = 'SilentlyContinue'
 
